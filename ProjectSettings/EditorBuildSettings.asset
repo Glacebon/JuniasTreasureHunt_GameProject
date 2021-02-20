@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 753767fff59b3864b9a6eadc40c08d22
+  - enabled: 1
+    path: Assets/Scenes/JuniasTreasureHunt_Forest_Scene.unity
+    guid: 00c1927fe29e987469e5e45fea477fe3
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 5f8c735ec3bc48042aa8a19846c6eec8
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 690f5aeb6e0e18d44aad695bc734d095
+  - enabled: 1
+    path: Assets/Scenes/JuniasTreasureHunt_RoomHub.unity
+    guid: bbbd4af1d999eb74889d7a7e61a54d56
+  - enabled: 1
+    path: Assets/Scenes/JuniasTreasureHunt_Beach_Scene.unity
+    guid: cdc0cb26efad88240b6913848fe1bd13
+  m_configObjects: {}
